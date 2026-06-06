@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1780694873952
+  logout: 1780708740441
   login: 1780695143313
 money: '0'
 last-account-name: Seitren20
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 5339777e-baf8-4996-93d6-fb8a251944cf
   world-name: lobby
-  x: 1.7131293654205173
-  y: 75.1254309386402
-  z: -4.560846031717244
-  yaw: 8.39697265625
-  pitch: 46.950584411621094
+  x: 0.1389452133516057
+  y: 66.0
+  z: -0.5954648227575473
+  yaw: 65.1640625
+  pitch: 24.59978485107422
