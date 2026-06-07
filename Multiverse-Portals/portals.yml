@@ -43,3 +43,14 @@ portals:
     action: e:faction:-35.0,-54.0,-7.0:0.0:0.0
     check-destination-safety: true
     version: 1.2
+  aleatoriofaction:
+    currency: air
+    price: 0.0
+    safe-teleport: true
+    teleport-non-players: false
+    owner: Seitren20
+    location: faction:-13.0,-51.0,-48.0:-9.0,-44.0,-46.0
+    action-type: multiverse-destination faction
+    action: 'console: /rtp'
+    check-destination-safety: true
+    version: 1.2

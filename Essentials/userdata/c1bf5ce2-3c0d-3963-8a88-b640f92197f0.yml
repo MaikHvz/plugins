@@ -11,28 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1780868448363
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1780853780379
-  login: 1780849387496
+  logout: 1780869694464
+  login: 1780868630993
 money: '0'
 last-account-name: Seitren20
 lastlocation:
   world: def9edd7-c06d-4229-8ee4-cdd31108de18
   world-name: faction
-  x: -10.988656942211643
-  y: -49.0
-  z: -2.957186730680706
-  yaw: -83.70208740234375
-  pitch: 28.949739456176758
+  x: 8868.800943629014
+  y: 65.80220327977341
+  z: 24993.24823873326
+  yaw: 95.54547882080078
+  pitch: 41.700252532958984
 logoutlocation:
   world: def9edd7-c06d-4229-8ee4-cdd31108de18
   world-name: faction
-  x: -88.84450698982948
-  y: 65.0
-  z: -56.70119760534646
-  yaw: 164.073974609375
-  pitch: 22.049251556396484
+  x: -10.346214126196838
+  y: -53.0
+  z: -38.528915392879426
+  yaw: 135.90420532226562
+  pitch: 23.09956932067871
+last-message-reply-recipient: false

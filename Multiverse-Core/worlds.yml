@@ -185,10 +185,10 @@ lobby:
   spawn-location:
     ==: MVSpawnLocation
     x: 0.5
-    y: 65.0
-    z: 0.5
-    pitch: 0.0
-    yaw: 0.0
+    y: 75.0
+    z: 335.5
+    pitch: 47.550045
+    yaw: -89.25028
   spawning:
     monster:
       spawn: true

@@ -1,0 +1,449 @@
+{
+  "world": "world",
+  "scanStride": -1,
+  "spatialResolution": 3,
+  "badLocations": [
+    {
+      "start": 817,
+      "length": 30,
+      "cause": "misc"
+    },
+    {
+      "start": 852,
+      "length": 5,
+      "cause": "misc"
+    },
+    {
+      "start": 861,
+      "length": 2,
+      "cause": "misc"
+    },
+    {
+      "start": 1232,
+      "length": 8,
+      "cause": "misc"
+    },
+    {
+      "start": 1248,
+      "length": 2,
+      "cause": "misc"
+    },
+    {
+      "start": 1260,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 1272,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 1348,
+      "length": 2,
+      "cause": "misc"
+    },
+    {
+      "start": 2206,
+      "length": 6,
+      "cause": "misc"
+    },
+    {
+      "start": 5169,
+      "length": 4,
+      "cause": "misc"
+    },
+    {
+      "start": 5220,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 5649,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 5988,
+      "length": 4,
+      "cause": "misc"
+    },
+    {
+      "start": 6477,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 6681,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 6891,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 6972,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 7176,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 7983,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 7992,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 8046,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 8505,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 8562,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 9084,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 9612,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 10146,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 10415,
+      "length": 2,
+      "cause": "misc"
+    },
+    {
+      "start": 10962,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 11103,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 12213,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 12630,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 13422,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 14001,
+      "length": 1,
+      "cause": "misc"
+    },
+    {
+      "start": 14166,
+      "length": 1,
+      "cause": "misc"
+    }
+  ],
+  "biomeLocations": {
+    "FROZEN_OCEAN": [
+      {
+        "start": 819,
+        "length": 28
+      },
+      {
+        "start": 1233,
+        "length": 7
+      },
+      {
+        "start": 1248,
+        "length": 1
+      },
+      {
+        "start": 1260,
+        "length": 1
+      },
+      {
+        "start": 5169,
+        "length": 4
+      },
+      {
+        "start": 5649,
+        "length": 1
+      },
+      {
+        "start": 14001,
+        "length": 1
+      }
+    ],
+    "ICE_SPIKES": [
+      {
+        "start": 861,
+        "length": 13
+      },
+      {
+        "start": 879,
+        "length": 1
+      },
+      {
+        "start": 1287,
+        "length": 4
+      },
+      {
+        "start": 1350,
+        "length": 1
+      },
+      {
+        "start": 1776,
+        "length": 1
+      },
+      {
+        "start": 2208,
+        "length": 4
+      },
+      {
+        "start": 2646,
+        "length": 1
+      },
+      {
+        "start": 3093,
+        "length": 1
+      }
+    ],
+    "DEEP_FROZEN_OCEAN": [
+      {
+        "start": 8046,
+        "length": 1
+      },
+      {
+        "start": 8562,
+        "length": 1
+      },
+      {
+        "start": 9084,
+        "length": 1
+      },
+      {
+        "start": 9612,
+        "length": 1
+      },
+      {
+        "start": 10146,
+        "length": 1
+      }
+    ],
+    "FROZEN_RIVER": [
+      {
+        "start": 852,
+        "length": 1
+      },
+      {
+        "start": 861,
+        "length": 1
+      },
+      {
+        "start": 12630,
+        "length": 1
+      }
+    ],
+    "SNOWY_TAIGA": [
+      {
+        "start": 5220,
+        "length": 1
+      },
+      {
+        "start": 5424,
+        "length": 1
+      },
+      {
+        "start": 5700,
+        "length": 1
+      },
+      {
+        "start": 5904,
+        "length": 4
+      },
+      {
+        "start": 6186,
+        "length": 1
+      },
+      {
+        "start": 6396,
+        "length": 1
+      },
+      {
+        "start": 6681,
+        "length": 1
+      },
+      {
+        "start": 6891,
+        "length": 1
+      },
+      {
+        "start": 10416,
+        "length": 1
+      },
+      {
+        "start": 10557,
+        "length": 1
+      },
+      {
+        "start": 10959,
+        "length": 1
+      },
+      {
+        "start": 11508,
+        "length": 4
+      },
+      {
+        "start": 11658,
+        "length": 1
+      },
+      {
+        "start": 12066,
+        "length": 4
+      },
+      {
+        "start": 12216,
+        "length": 1
+      },
+      {
+        "start": 12285,
+        "length": 1
+      },
+      {
+        "start": 12852,
+        "length": 1
+      },
+      {
+        "start": 13422,
+        "length": 1
+      }
+    ],
+    "SNOWY_PLAINS": [
+      {
+        "start": 849,
+        "length": 10
+      },
+      {
+        "start": 1272,
+        "length": 7
+      },
+      {
+        "start": 5505,
+        "length": 4
+      },
+      {
+        "start": 5985,
+        "length": 1
+      },
+      {
+        "start": 5994,
+        "length": 1
+      },
+      {
+        "start": 6477,
+        "length": 7
+      },
+      {
+        "start": 6642,
+        "length": 1
+      },
+      {
+        "start": 6972,
+        "length": 7
+      },
+      {
+        "start": 7140,
+        "length": 1
+      },
+      {
+        "start": 7476,
+        "length": 7
+      },
+      {
+        "start": 7644,
+        "length": 1
+      },
+      {
+        "start": 7983,
+        "length": 10
+      },
+      {
+        "start": 8154,
+        "length": 1
+      },
+      {
+        "start": 8499,
+        "length": 7
+      },
+      {
+        "start": 8673,
+        "length": 1
+      },
+      {
+        "start": 9021,
+        "length": 1
+      },
+      {
+        "start": 10962,
+        "length": 1
+      }
+    ],
+    "SNOWY_BEACH": [
+      {
+        "start": 7176,
+        "length": 1
+      },
+      {
+        "start": 11103,
+        "length": 1
+      },
+      {
+        "start": 12213,
+        "length": 1
+      }
+    ],
+    "COLD_OCEAN": [
+      {
+        "start": 14166,
+        "length": 1
+      }
+    ],
+    "FOREST": [
+      {
+        "start": 45450,
+        "length": 3
+      }
+    ]
+  }
+}

@@ -33,5 +33,40 @@
     "amount": 1,
     "category": "blocks",
     "added": 1780786464337
+  },
+  {
+    "base64": "H4sIAAAAAAAA/02QPUsDQRCGJ5dLGhFj7AStbGw2lSCENIaLHp5REkHBIuzF4bjc7u26t3dcLAQbRWwstNbCMr/F3yDWWmhj6+YD4jQzMM+8M++MvqCUKFgVKiB+GkWhJqkOGQkFOVFUSlQ/R7uf31VRsqDgQZFTqWHJG9CM1sZg7YDKei6NxFZfcBIIETAkpuQiNokx7Gvicp5q6jM08EYXVUhZeInnLaE4zMICywM7wmGioTqVZzQOaof+wCjUPShnlKWYXMAV2LlMFaycTTAyxsgMe3g7fa4km8wCyKVRLWqwGg0NhUyDrYcS0/F8edpZ/+c5jDOMtVBD4mrkXU37kbG0PF/gxhoDVNWPl9ff69tt8wwXSpOTcgWVOddOuY/qZvS0tvD4fj+7Y/HOmGo7x3tOp7fTcZv7vZbTbjp/sVghhHwBAAA\u003d",
+    "material": "NETHER_BRICK_FENCE",
+    "amount": 1,
+    "category": "blocks",
+    "added": 1780867748102
+  },
+  {
+    "base64": "H4sIAAAAAAAA/02QPUsDQRCGJ5ePRsQYO0ErG5tNJQghhZEoB2ciXkDBQvbiclxu93bdmz0uFoKNIjYWWmthmd/ibxBrLbSxdfMBcZoZmGfemXdGX1BONaxKHZLAxHGExGDESSTJsaZKMf1zuP/5XZNlBwoeFAVVCEvegGa0PgbrB1Q1cmUltvpSkFDKkDNiSyETmzhnfSSuEAZpwJmFN3ymI8qjS3a+J7WAWTjgeFCK2TBFqE3lOU3CejcYWIWGB5WMcsPSC7iCUq6MhpXTCUbGGJlhD28nz9V0kzsAubKqRQSn2UQoZAglHCpmxvOVaWf9n+coyViCUg+Ji0z4SPuxtbQ8X+AmyEKmax8vr7/Xt9v2GS6UJyflGqpzrmNEwPTN6Glt4fH9fnbH4p01tdtttby23+t22md+b8c98v8AZbt5EHwBAAA\u003d",
+    "material": "COBBLESTONE_STAIRS",
+    "amount": 1,
+    "category": "blocks",
+    "added": 1780867748124
+  },
+  {
+    "base64": "H4sIAAAAAAAA/02QPUsDQRCGJ5cPEBFj7AStbGw2lSCEFIJRDk4NRFCw2ovDcbnd23Vv9rhYCDaK2FhorYVlfou/Qay10MbWzQfoNDMwz7zzzow+oZoZWFEmYqFNkpiYpViwWLFjw7VG893d+/hqqKoHpQDKkmuCxWDAc94cg819rluFdhKbfSVZpFQkkLlSqtQlIbBPzJfSEg8FOni9hybmIr7As11lJMzCAy+ASoLDjKAxlRc8jZqH4cAptAKo5VxYzM7hEiqFtgaWTycYG2Nsht2/njzVsw3hARTaqZYJvHaboJQTVGio0Y7na9PO2r+b4zTHlJQZMp9Q9oj3E3fS0t8CPyWM0DTen19+rm623DN8qE4sFQbqf9yBlSGa69Hj6vzD293Mx8ItwdxOp9PtBdtHnV+Bu1Q5cwEAAA\u003d\u003d",
+    "material": "DEEPSLATE",
+    "amount": 1,
+    "category": "blocks",
+    "added": 1780867748135
+  },
+  {
+    "base64": "H4sIAAAAAAAA/02QPUsDQRCGJ5fERsQYGxG0srHZVIIQUiQmysFpghdQsAh7cTkut3u77s0dFwvBRhEbC621sMxv8TeItRba2Lr5gDjNDMwz77wzoy8oxhrWpfaJl4RhgCTBgJNAkhNNlWL6p3Pw+V2WRQtyDuQFVQjLzoCmtDIGK4dUVTNlJHb6UhBfSp8zYkohI5M4Z30kthAJUo8zA2+5TAeUB5fsfF9qAbOwwHKgELJhjFCeynMa+ZW2NzAKVQcWUsoTFl/AFRQylWhYPZtgZIyRGfbwdvpcire5BZApo5pHsGo1hFyKUMChYsl4fmHa2fx3cxClLEKph8RGJlyk/dCctDJfYEfIfKbLHy+vv9e3u+YZNhQnljINpTl3lAiP6ZvR08bi4/v9zMfSHcLaXrvRcFrNXrPV6rhOvdvqud26fez+AeCSKXiCAQAA",
+    "material": "COBBLED_DEEPSLATE_STAIRS",
+    "amount": 1,
+    "category": "blocks",
+    "added": 1780867748145
+  },
+  {
+    "base64": "H4sIAAAAAAAA/5VSz2sTURCepE2sVGmtN0EJiwcLyeZkkZRepD8Ipq3YQoVUystmunnN2/fWt/NiYojgRREvHvSsB8FL/wr/AP8G8aoe9OLV97YxqYJi9rA7M3zzzffN7PFXyCUaLikd+g3TbnPyDXHhc+XvaRbHqL/f3vjybUHlspCpwVTEYoK52hHrsLIDljdZvNyNLcX1QEV+qFQo0LdhpKT9CIEB+dUoMsQaAi346g5qzgR/iM11pSMYPlnI1mC6jb2EYOGEXjAZlrcbR5ZhuQb5DhMGk/vwCKa7sdFwsZ7CfAfzh7AXH+6+nk8WRRagG1vWHEF2ZYUg0yGYpl6MBHkWKSPJ5hESM44vf4K8cmoHXHZQktI9v0oY7RAL2tbihfHAqiQMUS98evP2x+OnN+xyqpBLJXY1zI9xWyZqoH5y/Ory7MuPz4e6zj8jOLd3p7q7u7Z1cHN7+1Zqa87JSCNI31NjcS6YITjrJJdOfOSIk0j9GGopbQsxCzE5bWjGad+0LQSzbsrBTnVja22V4Mz7d0sJdlUaYcS4M7f0H/er8YT+esBMHWZQYGQXZ484PM9vV7R3+yUvQ5nPfQ+7pJlXqfe9hhJNr3LIRIJFj5PlD0apkU3UgkscIxLSvI3U0sqErVFVNQ5NEjA6BbQWlPYqXuj4ix7ZiTYrlQrOf6FU2pf70hsU+3/OHPVp1hv31eyyKoV/4R+0OOG4wU2RNNmQVUwCzeOAKznRLMEKAkPbVWiiSP1dk0YGrECmw1HbuqstTiZm3S6fNZWeSIn7o7zBvVHuDX4CE/LIimcEAAA\u003d",
+    "material": "WRITTEN_BOOK",
+    "amount": 5,
+    "category": "misc",
+    "added": 1780867748166
   }
 ]

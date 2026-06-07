@@ -6,9 +6,8 @@
 # to keep the lite UX simple. The full assembly documents and ships
 # `backlogCacheCap` (ADR-028); lite users do not need to know about it.
 
-world: "[0]" # Target world. [0] = main world.
-worldBorderOverride: false # Use vanilla /worldborder radius if true
-
+world: "[0]"
+worldBorderOverride: false
 shape:
   name: "CIRCLE"
   mode: "ACCUMULATE"
@@ -21,20 +20,17 @@ shape:
   # 0 = off, 1 = the landing chunk only, N = an (2N-1)x(2N-1) chunk square.
   uniquePlacements: 0
   expand: false
-
 vert:
   name: "JUMP"
   minY: 32
   maxY: 255
   step: 16
   requireSkyLight: false
-
-requirePermission: false # If true, rtp.regions.<name> is required
-override: "default" # Region to redirect to if no permission
-cacheCap: 50 # Max pre-calculated safe locations
-activeChunkCap: 10 # Max chunks kept loaded for zero-latency
-price: 0.0 # Economy cost override for this region
-spatialResolution: 3 # Precision for bad-location tracking (1-5)
-
+requirePermission: false
+override: "default"
+cacheCap: 50
+activeChunkCap: 10
+price: 0.0
+spatialResolution: 3
 # DO NOT TOUCH VERSION NUMBER
 version: "1.0"

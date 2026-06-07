@@ -26,3 +26,214 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+  subida:
+    type: TEXT
+    location:
+      world: faction
+      x: -35.35
+      y: -49.0
+      z: -12.0
+      yaw: -178.50287
+      pitch: 68.24913
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - <gold>Plataforma para subir a la superficie<gold>
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  parairalasreglas:
+    type: TEXT
+    location:
+      world: lobby
+      x: 6.5
+      y: 76.0
+      z: 329.2
+      yaw: -137.84763
+      pitch: 90.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - <Gold>Para volver a ver las reglas y comandos utiliza<gold>
+    - '&b/warp reglas&b'
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  reglas1:
+    type: TEXT
+    location:
+      world: lobby
+      x: -4.508315455323815
+      y: 66.0
+      z: 5.503307527381115
+      yaw: 53.09025
+      pitch: 90.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - para editar los hologramas debes usar los comandos /hologram edit *nombre* addline
+    - y para remover una linea usa /hologram edit *nombre* removeline
+    - y para moverlo debes usar /hologram edit *nombre* moveTo x y z
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  entradaallobby:
+    type: TEXT
+    location:
+      world: lobby
+      x: 0.5
+      y: 73.0
+      z: 31.0
+      yaw: 0.13998413
+      pitch: 90.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&b Entra al portal y accede al lobby'
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  reglas2:
+    type: TEXT
+    location:
+      world: lobby
+      x: -4.548047686673217
+      y: 66.0
+      z: -4.489277447083757
+      yaw: 143.24031
+      pitch: 90.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - Edit this line with /hologram edit reglas2
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  comandos:
+    type: TEXT
+    location:
+      world: lobby
+      x: 5.443441362153284
+      y: 66.0
+      z: 5.435046603970262
+      yaw: -30.9096
+      pitch: 86.70009
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - Edit this line with /hologram edit comandos
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  comandos2:
+    type: TEXT
+    location:
+      world: lobby
+      x: 5.447177332395603
+      y: 66.0
+      z: -4.504034941451031
+      yaw: -122.8595
+      pitch: 90.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - Edit this line with /hologram edit comandos2
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  portalaleatorio:
+    type: TEXT
+    location:
+      world: faction
+      x: -10.6
+      y: -52.0
+      z: -25.0
+      yaw: -179.83682
+      pitch: 90.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&c Portal aleatorio'
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
