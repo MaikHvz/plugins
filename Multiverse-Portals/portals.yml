@@ -50,7 +50,7 @@ portals:
     teleport-non-players: false
     owner: Seitren20
     location: faction:-13.0,-51.0,-48.0:-9.0,-44.0,-46.0
-    action-type: multiverse-destination faction
-    action: 'console: /rtp'
+    action-type: command
+    action: console:rtp player %player%
     check-destination-safety: true
     version: 1.2
