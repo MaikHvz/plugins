@@ -1,0 +1,45 @@
+portals:
+  warps:
+    currency: air
+    price: 0.0
+    safe-teleport: true
+    teleport-non-players: false
+    owner: Seitren20
+    location: lobby:-3.0,70.0,33.0:3.0,77.0,33.0
+    action-type: multiverse-destination
+    action: e:lobby:0.0,75.0,335.0:0.0:0.0
+    check-destination-safety: true
+    version: 1.2
+  faction:
+    currency: air
+    price: 0.0
+    safe-teleport: true
+    teleport-non-players: false
+    owner: Seitren20
+    location: lobby:-3.0,71.0,285.0:3.0,76.0,285.0
+    action-type: multiverse-destination
+    action: e:faction:-10.0,-52.0,-11.0:0.0:0.0
+    check-destination-safety: true
+    version: 1.2
+  subida:
+    currency: air
+    price: 0.0
+    safe-teleport: true
+    teleport-non-players: false
+    owner: Seitren20
+    location: faction:-37.0,-51.0,-17.0:-35.0,-51.0,-15.0
+    action-type: multiverse-destination
+    action: e:faction:-35.0,69.0,-31.0:0.0:180.0
+    check-destination-safety: true
+    version: 1.2
+  bajada:
+    currency: air
+    price: 0.0
+    safe-teleport: true
+    teleport-non-players: false
+    owner: Seitren20
+    location: faction:-37.0,76.0,-22.0:-35.0,76.0,-21.0
+    action-type: multiverse-destination
+    action: e:faction:-35.0,-54.0,-7.0:0.0:0.0
+    check-destination-safety: true
+    version: 1.2
