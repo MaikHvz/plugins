@@ -73,8 +73,8 @@ Default:
   ## "Biomes: []" means all biomes are allowed! #
   ## Biomes are optional, more biomes at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/Biome.html #
   Biomes: []
-  MaxRadius: 1000
-  MinRadius: 10
+  MaxRadius: 49000
+  MinRadius: 2000
   ## If "UseWorldBorder" is set to true above, Center X and Z will be ignored! #
   CenterX: 0
   CenterZ: 0
