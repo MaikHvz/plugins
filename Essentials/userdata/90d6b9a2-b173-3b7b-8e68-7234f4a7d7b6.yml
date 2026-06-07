@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1780787179585
-  login: 1780786414611
+  logout: 1780870452602
+  login: 1780870445127
 money: '0'
 last-account-name: maik
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: def9edd7-c06d-4229-8ee4-cdd31108de18
   world-name: faction
-  x: 2.5795751607735125
+  x: 2.669409500334848
   y: -53.0
-  z: -1.3137253794792993
-  yaw: 167.24957275390625
-  pitch: 10.649983406066895
+  z: -2.1512016034544414
+  yaw: -163.0506134033203
+  pitch: 20.849958419799805

@@ -30,7 +30,7 @@ holograms:
     type: TEXT
     location:
       world: faction
-      x: -35.35
+      x: -35.349998474121094
       y: -49.0
       z: -12.0
       yaw: -178.50287
@@ -58,7 +58,7 @@ holograms:
       world: lobby
       x: 6.5
       y: 76.0
-      z: 329.2
+      z: 329.20001220703125
       yaw: -137.84763
       pitch: 90.0
     visibility_distance: -1
@@ -83,9 +83,9 @@ holograms:
     type: TEXT
     location:
       world: lobby
-      x: -4.508315455323815
+      x: -4.508315563201904
       y: 66.0
-      z: 5.503307527381115
+      z: 5.503307342529297
       yaw: 53.09025
       pitch: 90.0
     visibility_distance: -1
@@ -137,9 +137,9 @@ holograms:
     type: TEXT
     location:
       world: lobby
-      x: -4.548047686673217
+      x: -4.5480475425720215
       y: 66.0
-      z: -4.489277447083757
+      z: -4.489277362823486
       yaw: 143.24031
       pitch: 90.0
     visibility_distance: -1
@@ -163,9 +163,9 @@ holograms:
     type: TEXT
     location:
       world: lobby
-      x: 5.443441362153284
+      x: 5.443441390991211
       y: 66.0
-      z: 5.435046603970262
+      z: 5.435046672821045
       yaw: -30.9096
       pitch: 86.70009
     visibility_distance: -1
@@ -189,9 +189,9 @@ holograms:
     type: TEXT
     location:
       world: lobby
-      x: 5.447177332395603
+      x: 5.447177410125732
       y: 66.0
-      z: -4.504034941451031
+      z: -4.504034996032715
       yaw: -122.8595
       pitch: 90.0
     visibility_distance: -1
@@ -215,7 +215,7 @@ holograms:
     type: TEXT
     location:
       world: faction
-      x: -10.6
+      x: -10.600000381469727
       y: -52.0
       z: -25.0
       yaw: -179.83682
